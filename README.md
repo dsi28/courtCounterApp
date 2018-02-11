@@ -1,2 +1,2 @@
 # courtCounterApp
-b-ball score counter app. 
+b-ball score counter android app. 
